@@ -1,0 +1,3 @@
+# Config for own yocto build
+
+Layer to configure yocto build. Also adds some custom device drivers.
